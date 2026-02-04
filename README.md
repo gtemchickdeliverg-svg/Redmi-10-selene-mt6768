@@ -58,30 +58,7 @@ adb shell settings put global game_overlay 0
 
 
 
-# 📱 Redmi 10 2022 (selene MT6768) Custom ROMs
 
-<div align="center">
-
-## 🚀 Infinity X by KolakotLove
-*Флагманская прошивка Android 14 для Redmi 10 Prime*
-
-[![SourceForge Builds](https://img.shields.io/badge/ИСХОДНЫЙ_КОД_И_СКАЧИВАНИЕ-ff6600?style=for-the-badge&logo=sourceforge&logoColor=white)](https://sourceforge.net/projects/hasan6034-builds/)
-
-**📌 ВАЖНО:** Перед установкой сделайте резервную копию данных  
-**Разработчик:** KolakotLove  
-**Официальный источник:** [SourceForge Project](https://sourceforge.net/projects/hasan6034-builds/)  
-**Android:** 14 | **Чипсет:** MT6768 | **Статус:** Stable
-
-</div>
-
----
-
-## 📋 ПОДДЕРЖИВАЕМЫЕ УСТРОЙСТВА И ВАРИАНТЫ
-
-### 🔥 Основные модели:
-| Устройство | Кодовое имя | Модель | Состояние | Особенности |
-|------------|-------------|--------|-----------|-------------|
-| **Redmi 10 2022** | selene | 21061119AG | ✅ Стабильно | Глобальная версия |
 | **Redmi 10 2022** | selene | 21061119AL | ✅ Стабильно | Индийская версия |
 | **Redmi 10 Prime 2022** | selene | 21061119BI | ✅ Стабильно | Prime версия |
 | **Redmi 10 2022** | selene | 21061119DG | ✅ Стабильно | Российская версия |
@@ -92,5 +69,3 @@ adb shell settings put global game_overlay 0
 - **Russia/CIS**: 21061119DG, 21061119DL
 - **Europe**: 21061119AG, с NFC
 - **Indonesia**: 21061119AG, 21061119AL
-
-### ⚠️ Важная информация:
